@@ -1,15 +1,15 @@
 ![Full machine](media/banner.jpg)
 
-<img align="right" src="media/tc-maker-logo.png"> This repository centralizes the documentation and status of the ongoing restoration of the custom-built 4x4' CNC router affectionately named "Chico" found at the [TC Maker hackerspace](http://www.tcmaker.org/) in Minneapolis, MN.
+<img align="right" src="media/tc-maker-logo.png" title="TC Maker logo" alt="TC Maker logo"> This repository centralizes the documentation and status of the ongoing restoration of the custom-built 4x4' CNC router affectionately named "Chico" found at the [TC Maker hackerspace](http://www.tcmaker.org/) in Minneapolis, MN.
 
 Currently we meet up at the TC Maker space to work on the machine **each Sunday from about 12pm to about 5pm**. Changes to these plans can sometimes be found on the [TC Maker Google Group](https://groups.google.com/forum/#!forum/tcmaker), though you can also email one of the primary project owners below for more detailed information.
 
-### Useful links
+## Useful links
 * [Read the wiki](https://github.com/jasonwebb/tc-maker-chico/wiki) for any and all documentation generated during the restoration process, including cabling/wiring schemas, mechanical component data, electronics datasheets, operational procedures, and more.
 * [Visit the projects page](https://github.com/jasonwebb/tc-maker-chico/projects) to see all of the active, upcoming, and completed tasks identified so far, broken down by sub-system.
 * [Visit the issues page](https://github.com/jasonwebb/tc-maker-chico/issues) to see the tasks that are currently being worked on, with detailed notes about what has already been done for each task. _Note that these tasks are derived from the tasks marked as "In progress" in the [projects](https://github.com/jasonwebb/tc-maker-chico/projects) section._
 
-### Getting involved
+## Getting involved
 Due to the ad-hoc nature of the TC Maker community, and this project in particular, no official digital platform exists to document projects and serve as a learning tool for members looking to get more involved.
 
 This repository is therefore intended to serve as a publicly available reference source for general members as well as (hopefully) a way for interested members to keep their finger on the pulse of the project and feel more included in the process overall.
