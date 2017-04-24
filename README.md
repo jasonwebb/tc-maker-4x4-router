@@ -1,6 +1,6 @@
 ![Full machine](media/banner.jpg)
 
-<img align="right" src="media/tc-maker-logo.png" title="TC Maker logo" alt="TC Maker logo"> This repository centralizes the documentation and status of the ongoing restoration of the custom-built 4x4' CNC router affectionately named "Chico" found at the [TC Maker hackerspace](http://www.tcmaker.org/) in Minneapolis, MN.
+<img align="right" src="media/tc-maker-logo.png" title="TC Maker logo" alt="TC Maker logo">This repository centralizes the documentation and status of the on-going restoration of the custom-built 4x4' CNC router, affectionately named "Chico", found at the [TC Maker hackerspace](http://www.tcmaker.org/) in Minneapolis, MN.
 
 Currently we meet up at the TC Maker space to work on the machine **each Sunday from about 12pm to about 5pm**. Changes to these plans can sometimes be found on the [TC Maker Google Group](https://groups.google.com/forum/#!forum/tcmaker), though you can also email one of the primary project owners below for more detailed information.
 
@@ -10,22 +10,16 @@ Currently we meet up at the TC Maker space to work on the machine **each Sunday 
 * [Visit the issues page](https://github.com/jasonwebb/tc-maker-chico/issues) to see the tasks that are currently being worked on, with detailed notes about what has already been done for each task. _Note that these tasks are derived from the tasks marked as "In progress" in the [projects](https://github.com/jasonwebb/tc-maker-chico/projects) section._
 
 ## Getting involved
-Due to the ad-hoc nature of the TC Maker community, and this project in particular, no official digital platform exists to document projects and serve as a learning tool for members looking to get more involved.
+If you are interested in helping with **documentation** or helping to maintain this Github project (task management, wiki page writing, etc), shoot me a message so I can add you as a collaborator.
 
-This repository is therefore intended to serve as a publicly available reference source for general members as well as (hopefully) a way for interested members to keep their finger on the pulse of the project and feel more included in the process overall.
+If you'd like to show up and help out **in person**, we usually meet on Sundays from about noon to 5pm-ish at the CNC machine in the TC Maker space, though be sure to check the Google Group and FB page below for last-minute changes.
 
-The owner of this repository (Jason Webb) is planning to keep all information found here as up-to-date as possible, but your collaboration (in person or online) is very much welcome.
-
-If you are interested in helping with documentation or helping to maintain this Github project (task management, wiki page writing, etc), shoot me a message so I can add you as a collaborator.
-
-If you'd like to show up and help out in person, we usually meet on Sundays from about noon to 5pm-ish at the CNC machine in the TC Maker space.
-
-If you are someone who likes to cover all their bases and be as up-to-date as possible, the official channels of communication for TC Maker are:
+If you are someone who likes to **cover all their bases** and be as up-to-date as possible, the official channels of communication for TC Maker are:
 
 * The [TC Maker Google Group](https://groups.google.com/forum/#!forum/tcmaker) tends to be the place where some CNC router updates get posted, as well as cancellations to upcoming work plans.
 * The [TC Maker Facebook page](https://www.facebook.com/groups/85060647690/) _might_ have some information too once in a while.
 
 Also feel free to reach out to the primary project owners with any additional questions:
 
-* Pete McKenna _(primary CNC guru)_ - <pete.mckenna@gmail.com>
-* Jason Webb _(padawan CNC guru and lead documentarian)_ - <zen.webb@gmail.com>
+* **Pete McKenna** _(primary CNC guru)_ - <pete.mckenna@gmail.com>
+* **Jason Webb** _(padawan CNC guru and lead documentarian)_ - <zen.webb@gmail.com>
