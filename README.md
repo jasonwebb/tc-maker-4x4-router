@@ -1,6 +1,6 @@
-![Full machine](media/banner.jpg)
+![Full machine](media/repo/banner.jpg)
 
-<img align="right" src="media/tc-maker-logo.png" title="TC Maker logo" alt="TC Maker logo">This repository centralizes the documentation and status of the on-going restoration of the custom-built 4x4' CNC router, affectionately named "Chico", found at the [TC Maker hackerspace](http://www.tcmaker.org/) in Minneapolis, MN.
+<img align="right" src="media/repo/tc-maker-logo.png" title="TC Maker logo" alt="TC Maker logo">This repository centralizes the documentation and status of the on-going restoration of the custom-built 4x4' CNC router, affectionately named "Chico", found at the [TC Maker hackerspace](http://www.tcmaker.org/) in Minneapolis, MN.
 
 Currently we meet up at the TC Maker space to work on the machine **each Sunday from about 12pm to about 5pm**. Changes to these plans can sometimes be found on the [TC Maker Google Group](https://groups.google.com/forum/#!forum/tcmaker), though you can also email one of the primary project owners below for more detailed information.
 
