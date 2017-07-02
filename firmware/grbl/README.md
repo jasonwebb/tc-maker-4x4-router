@@ -1,7 +1,11 @@
+***
+This is a direct copy of Grbl v1.1f that has configured with defaults appropriate for the TC Maker 4x4' CNC machine. 
+
+A pre-compiled `.hex` file with these defaults baked in for the Arduino Uno (ATMega328p-based) is available in the [parent folder](https://github.com/jasonwebb/tc-maker-4x4-router/tree/master/firmware).
+***
+
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 
-***
-_Click the `Release` tab to download pre-compiled `.hex` files or just [click here](https://github.com/gnea/grbl/releases)_
 ***
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. This version of Grbl runs on an Arduino with a 328p processor (Uno, Duemilanove, Nano, Micro, etc).
 
