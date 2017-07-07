@@ -6,6 +6,7 @@
 **Chico is up and running as of 6/25/2017!**
 
 If you want to get trained on using the machine, start by reading through the wiki, then contact either Jason Webb or Pete McKenna to set up some training time.
+
 ---
 
 ## Useful links
