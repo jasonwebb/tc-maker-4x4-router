@@ -5,7 +5,7 @@
 ---
 **Chico is up and running as of 6/25/2017!**
 
-If you want to get trained on using the machine, start by reading through the wiki, then contact either Jason Webb or Pete McKenna to set up some training time.
+If you want to get trained on using the machine, start by reading through the wiki, 
 
 ---
 
@@ -17,14 +17,7 @@ If you want to get trained on using the machine, start by reading through the wi
 ## Getting involved
 If you are interested in helping with **documentation** or helping to maintain this Github project (task management, wiki page writing, etc), shoot me a message so I can add you as a collaborator.
 
-If you'd like to show up and help out **in person**, we usually meet on Sundays from about noon to 5pm-ish at the CNC machine in the TC Maker space, though be sure to check the Google Group and FB page below for last-minute changes.
-
 If you are someone who likes to **cover all their bases** and be as up-to-date as possible, the official channels of communication for TC Maker are:
 
 * The [TC Maker Google Group](https://groups.google.com/forum/#!forum/tcmaker) tends to be the place where some CNC router updates get posted, as well as cancellations to upcoming work plans.
 * The [TC Maker Facebook page](https://www.facebook.com/groups/85060647690/) _might_ have some information too once in a while.
-
-Also feel free to reach out to the primary project owners with any additional questions:
-
-* **Pete McKenna** _(primary CNC guru)_ - <pete.mckenna@gmail.com>
-* **Jason Webb** _(padawan CNC guru and lead documentarian)_ - <zen.webb@gmail.com>
